@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplicationByJava"
         tools:targetApi="31">
+        <activity
+            android:name=".text.ViewMarginActivity"
+            android:exported="false" />
         <!-- <activity -->
         <!-- android:name=".MainActivity" -->
         <!-- android:exported="false" /> -->
