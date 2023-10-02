@@ -12,11 +12,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplicationByJava"
         tools:targetApi="31">
-<!--        <activity-->
-<!--            android:name=".MainActivity"-->
-<!--            android:exported="false" />-->
+        <!-- <activity -->
+        <!-- android:name=".MainActivity" -->
+        <!-- android:exported="false" /> -->
         <activity
-            android:name=".text.TextColorActivity"
+            android:name=".text.ViewBorderActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.MyApplicationByJava">
